@@ -1,8 +1,8 @@
 # 2020_DreamTeam_Keeper
 
-Creates a ADP DreamTeam Keeper League model.
+Creates a Weighted DreamTeam Keeper League model.
 
-ADP = Averave Draft Position
+ADP = Average Draft Position
 ADP is used to compared players between positions 
 
 Example:
